@@ -1,0 +1,7 @@
+{
+  "name": "Tohoku Horizons - Tour Reservation & Availability Manager",
+  "description": "Premium Tohoku travel activity reservations with real-time seat availability tracking, cinematic video experiences, and automated customer confirmation emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
